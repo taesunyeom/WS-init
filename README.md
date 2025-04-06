@@ -1,1 +1,1 @@
-# WS-init
+# Fast Training of Sinusoidal Neural Fields via Scaling Initialization
